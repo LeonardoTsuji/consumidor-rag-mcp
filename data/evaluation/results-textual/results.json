@@ -1,0 +1,1081 @@
+{
+  "summary": {
+    "createdAt": "2026-10-13T19:33:53.460Z",
+    "corpus": "v_5f04837d5ae6726501f1d7dd",
+    "mode": "textual",
+    "generationEvaluated": false,
+    "hitAt10": 0.975,
+    "referenceValidity": null,
+    "unsupportedAbstention": null,
+    "semanticSupport": null,
+    "humanReview": "pending",
+    "generationFailures": null,
+    "medianLatencyMs": 1,
+    "inputTokens": 0,
+    "outputTokens": 0,
+    "cost": null
+  },
+  "rows": [
+    {
+      "id": "q01",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "cdc-art-49",
+        "resp-1340604-p5-5",
+        "resp-1340604-p4-4",
+        "resp-1340604-p1-1",
+        "resp-1656182-p24-24",
+        "resp-1412993-p13-13",
+        "resp-1412993-p43-44",
+        "resp-1412993-p20-21",
+        "resp-1412993-p22-23",
+        "resp-1656182-p25-25"
+      ],
+      "latencyMs": 3
+    },
+    {
+      "id": "q02",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "resp-1340604-p4-4",
+        "resp-1340604-p1-1",
+        "resp-1340604-p5-5",
+        "resp-1412993-p20-21",
+        "resp-1412993-p28-29",
+        "resp-1656182-p11-11",
+        "resp-1656182-p1-1",
+        "cdc-art-33",
+        "resp-1656182-p6-6",
+        "resp-1412993-p11-11"
+      ],
+      "latencyMs": 3
+    },
+    {
+      "id": "q03",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "resp-1340604-p5-5",
+        "resp-1340604-p4-4",
+        "resp-1340604-p1-1",
+        "decreto-7962-art-5",
+        "resp-1412993-p20-21",
+        "resp-1412993-p13-13",
+        "decreto-7962-art-1",
+        "resp-1656182-p11-11",
+        "cdc-art-49",
+        "resp-1412993-p28-29"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q04",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "cdc-art-49",
+        "resp-1340604-p5-5",
+        "resp-1656182-p24-24",
+        "resp-1412993-p13-13",
+        "resp-1340604-p4-4",
+        "resp-1340604-p1-1",
+        "resp-1656182-p1-1",
+        "resp-1656182-p6-6",
+        "resp-1656182-p14-14",
+        "resp-1412993-p27-28"
+      ],
+      "latencyMs": 2
+    },
+    {
+      "id": "q05",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "decreto-7962-art-5",
+        "resp-1412993-p20-21",
+        "decreto-7962-art-1",
+        "resp-1412993-p1-1",
+        "resp-1412993-p7-7",
+        "resp-1656182-p1-1",
+        "decreto-7962-art-2",
+        "resp-1656182-p6-6",
+        "resp-1412993-p12-12",
+        "decreto-7962-art-4"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q06",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "decreto-7962-art-5",
+        "resp-1412993-p20-21",
+        "cdc-art-54-f",
+        "resp-1656182-p11-11",
+        "resp-1412993-p45-46",
+        "resp-1656182-p1-1",
+        "resp-1656182-p6-6",
+        "resp-1412993-p52-53",
+        "resp-1412993-p40-41",
+        "resp-1340604-p5-5"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q07",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "decreto-7962-art-4",
+        "decreto-7962-art-5",
+        "resp-1412993-p20-21",
+        "resp-1412993-p13-13",
+        "resp-1656182-p24-24",
+        "resp-1340604-p5-5",
+        "cdc-art-49",
+        "resp-1656182-p10-10",
+        "resp-1412993-p28-29",
+        "resp-1412993-p45-46"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q08",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "resp-1656182-p11-11",
+        "resp-1412993-p1-1",
+        "resp-1412993-p27-28",
+        "resp-1656182-p1-1",
+        "resp-1656182-p6-6",
+        "resp-1412993-p52-53",
+        "resp-1412993-p43-44",
+        "resp-1656182-p16-16",
+        "cdc-art-84",
+        "cdc-art-95"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q09",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "cdc-art-19",
+        "resp-2000701-p14-14",
+        "resp-1411136-p5-5",
+        "resp-2000701-p10-10",
+        "cdc-art-18",
+        "resp-1634851-p10-10",
+        "resp-1176323-p5-5",
+        "resp-1634851-p32-32",
+        "resp-1634851-p26-26",
+        "resp-1176323-p6-6"
+      ],
+      "latencyMs": 2
+    },
+    {
+      "id": "q10",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "cdc-art-18",
+        "resp-1411136-p6-6",
+        "resp-2000701-p10-10",
+        "resp-1634851-p26-26",
+        "resp-2000701-p14-14",
+        "resp-1634851-p10-10",
+        "resp-1634851-p14-14",
+        "cdc-art-26",
+        "resp-2000701-p15-15",
+        "resp-1634851-p9-9"
+      ],
+      "latencyMs": 2
+    },
+    {
+      "id": "q11",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "resp-1176323-p7-7",
+        "cdc-art-26",
+        "resp-1176323-p8-8",
+        "resp-1176323-p2-2",
+        "resp-1176323-p3-3",
+        "resp-1634851-p30-30",
+        "resp-1634851-p18-18",
+        "resp-2000701-p15-15",
+        "resp-1634851-p4-4",
+        "resp-2000701-p14-14"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q12",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "cdc-art-26",
+        "resp-1176323-p8-8",
+        "resp-1176323-p7-7",
+        "resp-1176323-p2-2",
+        "resp-1176323-p10-10",
+        "resp-2000701-p3-3",
+        "resp-2000701-p4-4",
+        "resp-2000701-p13-13",
+        "resp-1634851-p33-33",
+        "resp-1634851-p32-32"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q13",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "cdc-art-50",
+        "cdc-art-24",
+        "resp-1176323-p7-7",
+        "resp-1411136-p2-2",
+        "resp-1411136-p7-7",
+        "resp-1411136-p3-3",
+        "cdc-art-59",
+        "cdc-art-74",
+        "resp-1634851-p27-27",
+        "resp-1634851-p1-1"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q14",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "cdc-art-24",
+        "cdc-art-50",
+        "resp-1176323-p7-7",
+        "resp-1634851-p1-1",
+        "cdc-art-74",
+        "resp-1634851-p27-27",
+        "resp-2000701-p14-14",
+        "resp-1634851-p13-13",
+        "resp-1634851-p12-12",
+        "resp-1411136-p3-3"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q15",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "resp-1634851-p33-33",
+        "resp-1634851-p1-1",
+        "resp-1176323-p1-1",
+        "resp-1634851-p4-4",
+        "resp-1634851-p24-24",
+        "resp-1176323-p6-6",
+        "resp-1176323-p10-10",
+        "resp-1411136-p1-1",
+        "resp-1411136-p3-3",
+        "resp-1176323-p7-7"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q16",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "resp-2000701-p14-14",
+        "resp-2000701-p13-13",
+        "resp-2000701-p10-10",
+        "resp-2000701-p9-9",
+        "resp-1176323-p6-6",
+        "cdc-art-18",
+        "resp-1634851-p10-10",
+        "resp-1634851-p4-4",
+        "resp-1176323-p5-5"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q17",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "resp-1872048-p12-12",
+        "resp-1872048-p10-10",
+        "resp-1872048-p11-11",
+        "resp-1872048-p1-1",
+        "cdc-art-35",
+        "decreto-7962-art-6",
+        "resp-1656182-p24-24",
+        "resp-1656182-p20-20",
+        "resp-1412993-p18-19",
+        "cdc-art-32"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q18",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "resp-1872048-p1-1",
+        "resp-1872048-p5-5",
+        "resp-1872048-p15-15",
+        "resp-1872048-p16-16",
+        "cdc-art-35",
+        "decreto-7962-art-6",
+        "cdc-art-39",
+        "cdc-art-32",
+        "decreto-7962-art-2",
+        "resp-1656182-p3-3"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q19",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "decreto-7962-art-2",
+        "resp-1412993-p20-21",
+        "resp-1412993-p34-35",
+        "cdc-art-54-b",
+        "resp-1412993-p11-11",
+        "resp-1412993-p16-16",
+        "cdc-art-54-d",
+        "decreto-7962-art-6",
+        "resp-1872048-p15-15",
+        "resp-1872048-p3-3"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q20",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "decreto-7962-art-6",
+        "decreto-7962-art-2",
+        "decreto-7962-art-4",
+        "resp-1872048-p1-1",
+        "resp-1872048-p5-5",
+        "resp-1412993-p20-21",
+        "decreto-7962-art-1",
+        "resp-1872048-p8-8",
+        "cdc-art-54-b",
+        "resp-1412993-p12-12"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q21",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "resp-1872048-p12-12",
+        "resp-1872048-p10-10",
+        "cdc-art-35",
+        "resp-1872048-p11-11",
+        "resp-1872048-p1-1",
+        "resp-1412993-p17-18",
+        "cdc-art-50",
+        "decreto-7962-art-2",
+        "cdc-art-32",
+        "cdc-art-107"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q22",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "resp-1872048-p10-10",
+        "cdc-art-35",
+        "resp-1872048-p1-1",
+        "resp-1872048-p5-5",
+        "resp-1872048-p12-12",
+        "cdc-art-20",
+        "cdc-art-54-d",
+        "resp-1412993-p16-16",
+        "cdc-art-18",
+        "resp-1412993-p17-18"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q23",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "resp-1412993-p1-1",
+        "resp-1656182-p1-1",
+        "resp-1656182-p6-6",
+        "resp-1656182-p11-11",
+        "resp-1412993-p27-28",
+        "resp-1412993-p52-53",
+        "resp-1656182-p12-12",
+        "resp-1412993-p54-55"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q24",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "cdc-art-30",
+        "resp-1872048-p9-9",
+        "resp-1872048-p8-8",
+        "resp-1872048-p1-1",
+        "resp-1872048-p5-5",
+        "cdc-art-66",
+        "decreto-7962-art-4",
+        "cdc-art-35",
+        "decreto-7962-art-2",
+        "resp-1656182-p1-1"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q25",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "cdc-art-30",
+        "resp-1705278-p12-12",
+        "resp-1828620-p2-2",
+        "resp-1828620-p12-13",
+        "resp-1705278-p11-11",
+        "resp-1540566-p14-14",
+        "resp-1540566-p13-13",
+        "resp-1828620-p10-11",
+        "resp-1540566-p17-17",
+        "cdc-art-38"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q26",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "cdc-art-31",
+        "resp-1540566-p14-14",
+        "resp-1705278-p8-8",
+        "resp-1705278-p11-11",
+        "resp-1705278-p1-1",
+        "resp-1705278-p6-6",
+        "cdc-art-12",
+        "decreto-7962-art-2",
+        "cdc-art-54-b",
+        "resp-1828620-p2-2"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q27",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "resp-1705278-p8-8",
+        "resp-1540566-p15-15",
+        "cdc-art-37",
+        "resp-1705278-p11-11",
+        "resp-1540566-p9-9",
+        "resp-1540566-p2-2",
+        "resp-1540566-p1-1",
+        "resp-1705278-p15-15",
+        "resp-1705278-p1-1",
+        "resp-1828620-p12-13"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q28",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "resp-1828620-p10-11",
+        "cdc-art-38",
+        "resp-1828620-p2-2",
+        "resp-1828620-p13-14",
+        "resp-1705278-p11-11",
+        "resp-1705278-p12-12",
+        "resp-1540566-p12-12",
+        "cdc-art-63",
+        "resp-1705278-p5-5",
+        "resp-1705278-p13-13"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q29",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "cdc-art-36",
+        "cdc-art-33",
+        "resp-1705278-p12-12",
+        "resp-1540566-p22-22",
+        "resp-1613561-p6-6",
+        "resp-1613561-p1-1",
+        "resp-1705278-p13-13",
+        "resp-1705278-p8-8",
+        "resp-1540566-p1-1",
+        "resp-1540566-p8-8"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q30",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "resp-1613561-p3-3",
+        "resp-1613561-p1-1",
+        "resp-1613561-p6-6",
+        "resp-1613561-p7-7",
+        "resp-1828620-p16-17",
+        "cdc-art-60",
+        "cdc-art-37",
+        "cdc-art-67",
+        "resp-1828620-p12-13",
+        "resp-1705278-p1-1"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q31",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "cdc-art-54-b",
+        "resp-1828620-p8-9",
+        "resp-1828620-p1-1",
+        "cdc-art-54-d",
+        "resp-1828620-p2-2",
+        "cdc-art-43",
+        "resp-1828620-p11-12",
+        "cdc-art-54-c",
+        "resp-1705278-p15-15",
+        "decreto-7962-art-2"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q32",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "resp-1540566-p1-1",
+        "resp-1540566-p8-8",
+        "resp-1540566-p16-16",
+        "resp-1540566-p4-4",
+        "cdc-art-37",
+        "resp-1705278-p11-11",
+        "resp-1705278-p8-8",
+        "resp-1705278-p15-15",
+        "resp-1705278-p1-1"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q33",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "cdc-art-42",
+        "earesp-676608-p49-49",
+        "eresp-1413542-p68-68",
+        "eresp-1413542-p48-48",
+        "earesp-676608-p76-76",
+        "eresp-1413542-p24-24",
+        "eresp-1413542-p11-11",
+        "resp-1645589-p9-9",
+        "earesp-676608-p120-120",
+        "earesp-676608-p104-104"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q34",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "eresp-1413542-p68-68",
+        "earesp-676608-p76-76",
+        "eresp-1413542-p39-39",
+        "eresp-1413542-p6-6",
+        "earesp-676608-p145-145",
+        "eresp-1413542-p97-97",
+        "cdc-art-42",
+        "earesp-676608-p40-40",
+        "earesp-676608-p3-3"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q35",
+      "category": "answerable",
+      "hit": false,
+      "sourceIds": [
+        "eresp-1413542-p13-13",
+        "earesp-676608-p103-103",
+        "earesp-676608-p136-136",
+        "eresp-1413542-p6-6",
+        "eresp-1413542-p1-1",
+        "earesp-676608-p108-108",
+        "eresp-1413542-p81-81",
+        "earesp-676608-p2-2"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q36",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "eresp-1413542-p6-6",
+        "earesp-676608-p34-34",
+        "eresp-1413542-p89-89",
+        "earesp-676608-p42-42",
+        "earesp-676608-p51-51",
+        "eresp-1413542-p39-39",
+        "earesp-676608-p122-122",
+        "eresp-1413542-p50-50"
+      ],
+      "latencyMs": 2
+    },
+    {
+      "id": "q37",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "earesp-676608-p4-4",
+        "earesp-676608-p139-139",
+        "earesp-676608-p137-137",
+        "earesp-676608-p138-138",
+        "eresp-1413542-p7-7",
+        "eresp-1413542-p40-40",
+        "eresp-1413542-p8-8",
+        "eresp-1413542-p62-62"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q38",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "resp-1645589-p10-10",
+        "resp-1645589-p5-5",
+        "resp-1645589-p1-1",
+        "earesp-676608-p49-49",
+        "resp-1645589-p6-6",
+        "earesp-676608-p55-55",
+        "eresp-1413542-p48-48",
+        "earesp-676608-p111-111",
+        "earesp-676608-p106-106",
+        "eresp-1413542-p87-87"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q39",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "cdc-art-42-a",
+        "cdc-art-43",
+        "cdc-art-31",
+        "earesp-676608-p121-121",
+        "eresp-1413542-p88-88",
+        "earesp-676608-p104-104",
+        "cdc-art-54-b",
+        "earesp-676608-p105-105",
+        "eresp-1413542-p87-87",
+        "earesp-676608-p120-120"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q40",
+      "category": "answerable",
+      "hit": true,
+      "sourceIds": [
+        "earesp-676608-p49-49",
+        "cdc-art-71",
+        "cdc-art-42",
+        "eresp-1413542-p48-48",
+        "resp-1645589-p10-10",
+        "earesp-676608-p104-104",
+        "eresp-1413542-p87-87",
+        "earesp-676608-p120-120",
+        "resp-1645589-p9-9",
+        "resp-1645589-p15-15"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q41",
+      "category": "ambiguous",
+      "hit": null,
+      "sourceIds": [
+        "resp-1412993-p13-13",
+        "resp-1656182-p11-11",
+        "resp-1412993-p28-29",
+        "decreto-7962-art-5",
+        "resp-2000701-p4-4",
+        "resp-1412993-p11-11",
+        "resp-1412993-p45-46",
+        "resp-1656182-p1-1",
+        "resp-1656182-p6-6",
+        "resp-1340604-p5-5"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q42",
+      "category": "ambiguous",
+      "hit": null,
+      "sourceIds": [
+        "resp-1656182-p27-27",
+        "eresp-1413542-p98-98",
+        "eresp-1413542-p90-90",
+        "eresp-1413542-p59-59",
+        "resp-1645589-p15-15",
+        "eresp-1413542-p66-66",
+        "earesp-676608-p74-74"
+      ],
+      "latencyMs": 0
+    },
+    {
+      "id": "q43",
+      "category": "ambiguous",
+      "hit": null,
+      "sourceIds": [
+        "earesp-676608-p22-22",
+        "eresp-1413542-p25-25",
+        "earesp-676608-p55-55",
+        "eresp-1413542-p21-21",
+        "eresp-1413542-p54-54",
+        "resp-1412993-p10-10",
+        "resp-1412993-p47-48",
+        "earesp-676608-p70-70",
+        "earesp-676608-p123-123",
+        "resp-1176323-p10-10"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q44",
+      "category": "ambiguous",
+      "hit": null,
+      "sourceIds": [
+        "resp-1540566-p10-10",
+        "resp-1634851-p7-7",
+        "resp-1634851-p21-21",
+        "resp-1540566-p3-3",
+        "resp-1634851-p10-10",
+        "resp-1411136-p3-3",
+        "resp-1634851-p2-2",
+        "resp-2000701-p17-17",
+        "resp-1656182-p4-4",
+        "cdc-art-106"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q45",
+      "category": "ambiguous",
+      "hit": null,
+      "sourceIds": [
+        "resp-1634851-p12-12",
+        "resp-1634851-p1-1",
+        "cdc-art-19",
+        "resp-1613561-p6-6",
+        "resp-2000701-p7-7",
+        "resp-2000701-p16-16",
+        "resp-1645589-p15-15",
+        "resp-1176323-p6-6",
+        "resp-1634851-p7-7",
+        "resp-2000701-p2-2"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q46",
+      "category": "ambiguous",
+      "hit": null,
+      "sourceIds": [
+        "resp-1705278-p11-11",
+        "resp-1634851-p10-10",
+        "resp-1412993-p39-40",
+        "resp-1872048-p14-14",
+        "earesp-676608-p104-104",
+        "resp-1412993-p18-19",
+        "resp-1412993-p48-49",
+        "eresp-1413542-p64-64",
+        "resp-1412993-p38-39",
+        "eresp-1413542-p34-34"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q47",
+      "category": "ambiguous",
+      "hit": null,
+      "sourceIds": [
+        "earesp-676608-p78-78",
+        "resp-1411136-p6-6",
+        "earesp-676608-p92-92",
+        "eresp-1413542-p70-70",
+        "cdc-art-42",
+        "eresp-1413542-p54-54",
+        "eresp-1413542-p69-69",
+        "resp-1705278-p13-13",
+        "earesp-676608-p49-49",
+        "earesp-676608-p55-55"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q48",
+      "category": "ambiguous",
+      "hit": null,
+      "sourceIds": [
+        "resp-1705278-p7-7",
+        "eresp-1413542-p88-88",
+        "resp-1828620-p7-8",
+        "earesp-676608-p105-105",
+        "resp-1705278-p9-9",
+        "resp-1828620-p15-16",
+        "resp-1828620-p6-7",
+        "resp-1705278-p13-13",
+        "resp-1828620-p11-12",
+        "resp-1705278-p8-8"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q49",
+      "category": "unsupported",
+      "hit": null,
+      "sourceIds": [
+        "cdc-art-3",
+        "cdc-art-26",
+        "resp-1176323-p7-7",
+        "resp-1634851-p25-25",
+        "resp-1176323-p2-2",
+        "resp-1176323-p8-8",
+        "resp-1634851-p10-10",
+        "resp-1412993-p16-16",
+        "resp-1176323-p3-3",
+        "earesp-676608-p97-97"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q50",
+      "category": "unsupported",
+      "hit": null,
+      "sourceIds": [
+        "earesp-676608-p23-23",
+        "resp-1340604-p3-3",
+        "resp-1634851-p25-25",
+        "eresp-1413542-p50-50",
+        "earesp-676608-p51-51"
+      ],
+      "latencyMs": 0
+    },
+    {
+      "id": "q51",
+      "category": "unsupported",
+      "hit": null,
+      "sourceIds": [
+        "resp-1412993-p14-14",
+        "resp-1656182-p10-10",
+        "resp-2000701-p13-13",
+        "earesp-676608-p67-67",
+        "eresp-1413542-p62-62",
+        "cdc-art-20",
+        "resp-1656182-p24-24",
+        "resp-1656182-p18-18",
+        "cdc-art-55",
+        "eresp-1413542-p30-30"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q52",
+      "category": "unsupported",
+      "hit": null,
+      "sourceIds": [
+        "resp-1656182-p9-9",
+        "cdc-art-84",
+        "cdc-art-104-b",
+        "resp-1412993-p16-16",
+        "eresp-1413542-p62-62",
+        "resp-1656182-p27-27",
+        "resp-1645589-p8-8",
+        "resp-1656182-p4-4",
+        "resp-1872048-p11-11",
+        "resp-1705278-p11-11"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q53",
+      "category": "unsupported",
+      "hit": null,
+      "sourceIds": [
+        "resp-1540566-p19-19",
+        "resp-1828620-p14-15",
+        "cdc-art-84",
+        "resp-1645589-p14-14",
+        "eresp-1413542-p20-20",
+        "resp-2000701-p12-12",
+        "resp-1540566-p9-9",
+        "resp-1540566-p2-2",
+        "eresp-1413542-p61-61",
+        "resp-1411136-p2-2"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q54",
+      "category": "unsupported",
+      "hit": null,
+      "sourceIds": [
+        "resp-1412993-p11-11",
+        "resp-1656182-p11-11",
+        "eresp-1413542-p80-80",
+        "resp-1412993-p28-29",
+        "resp-1340604-p4-4",
+        "cdc-art-106",
+        "resp-1412993-p49-50",
+        "resp-1340604-p1-1",
+        "resp-1412993-p45-46",
+        "resp-1656182-p1-1"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q55",
+      "category": "unsupported",
+      "hit": null,
+      "sourceIds": [
+        "cdc-art-54",
+        "decreto-7962-art-8",
+        "cdc-art-22",
+        "resp-1828620-p9-10",
+        "resp-1828620-p17-18",
+        "cdc-art-47",
+        "resp-1340604-p5-5",
+        "eresp-1413542-p21-21",
+        "cdc-art-43",
+        "resp-1656182-p24-24"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q56",
+      "category": "unsupported",
+      "hit": null,
+      "sourceIds": [
+        "resp-1634851-p26-26",
+        "resp-1540566-p21-21",
+        "eresp-1413542-p66-66",
+        "earesp-676608-p95-95",
+        "earesp-676608-p74-74",
+        "earesp-676608-p52-52",
+        "cdc-art-94",
+        "eresp-1413542-p31-31",
+        "earesp-676608-p82-82",
+        "resp-1645589-p6-6"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q57",
+      "category": "adversarial",
+      "hit": null,
+      "sourceIds": [
+        "resp-1340604-p4-4",
+        "resp-1340604-p1-1",
+        "resp-1340604-p5-5",
+        "resp-1656182-p11-11",
+        "resp-1412993-p20-21",
+        "resp-1412993-p44-45",
+        "resp-1412993-p28-29",
+        "resp-1412993-p7-7",
+        "resp-1656182-p25-25",
+        "cdc-art-33"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q58",
+      "category": "adversarial",
+      "hit": null,
+      "sourceIds": [
+        "resp-1705278-p1-1",
+        "resp-1705278-p6-6",
+        "earesp-676608-p96-96",
+        "resp-1656182-p9-9",
+        "earesp-676608-p141-141",
+        "cdc-art-50",
+        "resp-1705278-p4-4",
+        "resp-1705278-p7-7",
+        "cdc-art-43",
+        "earesp-676608-p88-88"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q59",
+      "category": "adversarial",
+      "hit": null,
+      "sourceIds": [
+        "cdc-art-102",
+        "eresp-1413542-p28-28",
+        "resp-2000701-p12-12",
+        "eresp-1413542-p19-19",
+        "earesp-676608-p68-68",
+        "resp-1634851-p19-19",
+        "resp-1412993-p49-50",
+        "earesp-676608-p78-78",
+        "resp-1634851-p12-12",
+        "cdc-art-106"
+      ],
+      "latencyMs": 1
+    },
+    {
+      "id": "q60",
+      "category": "adversarial",
+      "hit": null,
+      "sourceIds": [
+        "cdc-art-104-b",
+        "resp-1634851-p10-10",
+        "resp-1411136-p2-2",
+        "resp-1340604-p5-5",
+        "eresp-1413542-p80-80",
+        "cdc-art-49",
+        "cdc-art-26",
+        "resp-1340604-p4-4",
+        "cdc-art-104",
+        "resp-1411136-p6-6"
+      ],
+      "latencyMs": 1
+    }
+  ]
+}

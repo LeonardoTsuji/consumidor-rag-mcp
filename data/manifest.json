@@ -1,0 +1,295 @@
+{
+  "schemaVersion": 1,
+  "documents": [
+    {
+      "id": "cdc",
+      "title": "Código de Defesa do Consumidor — Lei nº 8.078/1990",
+      "type": "legislacao",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "topics": [
+        "arrependimento",
+        "garantia",
+        "entrega",
+        "oferta",
+        "cobranca"
+      ],
+      "format": "html",
+      "authority": "Planalto",
+      "rationale": "Texto compilado do CDC; base legal dos cinco temas do acervo."
+    },
+    {
+      "id": "decreto-7962",
+      "title": "Decreto nº 7.962/2013 — Comércio eletrônico",
+      "type": "legislacao",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7962.htm",
+      "topics": [
+        "arrependimento",
+        "garantia",
+        "entrega",
+        "oferta",
+        "cobranca"
+      ],
+      "format": "html",
+      "authority": "Planalto",
+      "rationale": "Regras de informação, atendimento e arrependimento na contratação eletrônica."
+    },
+    {
+      "id": "resp-1340604",
+      "title": "REsp 1.340.604/RJ",
+      "type": "jurisprudencia",
+      "url": "https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ITA?dt=20130822&formato=PDF&nreg=201201416908&salvar=false&seq=1255126&tipo=0",
+      "topics": [
+        "arrependimento"
+      ],
+      "format": "pdf",
+      "authority": "STJ",
+      "process": "REsp 1.340.604/RJ",
+      "court": "Segunda Turma",
+      "rapporteur": "Mauro Campbell Marques",
+      "judgedAt": "2013-08-15",
+      "publishedAt": "2013-08-22",
+      "rationale": "Frete de devolução no arrependimento em contratação a distância."
+    },
+    {
+      "id": "resp-1412993",
+      "title": "REsp 1.412.993/SP",
+      "type": "jurisprudencia",
+      "url": "https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ITA?dt=20180607&formato=PDF&nreg=201301044217&salvar=false&seq=1607640&tipo=0",
+      "topics": [
+        "arrependimento",
+        "entrega"
+      ],
+      "format": "pdf",
+      "authority": "STJ",
+      "process": "REsp 1.412.993/SP",
+      "court": "Quarta Turma",
+      "rapporteur": "Luis Felipe Salomão; redatora do acórdão: Maria Isabel Gallotti",
+      "judgedAt": "2018-05-08",
+      "publishedAt": "2018-06-07",
+      "rationale": "Limites da imposição de multa por atraso na entrega e na devolução em compras online; distinguir voto vencido."
+    },
+    {
+      "id": "resp-1656182",
+      "title": "REsp 1.656.182/SP",
+      "type": "jurisprudencia",
+      "url": "https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ITA?dt=20191014&formato=PDF&nreg=201502397132&salvar=false&seq=1863542&tipo=0",
+      "topics": [
+        "arrependimento",
+        "entrega"
+      ],
+      "format": "pdf",
+      "authority": "STJ",
+      "process": "REsp 1.656.182/SP",
+      "court": "Segunda Seção",
+      "rapporteur": "Nancy Andrighi",
+      "judgedAt": "2019-09-11",
+      "publishedAt": "2019-10-14",
+      "rationale": "Limites da intervenção judicial em multa genérica por mora na entrega e na restituição por arrependimento."
+    },
+    {
+      "id": "resp-1872048",
+      "title": "REsp 1.872.048/RS",
+      "type": "jurisprudencia",
+      "url": "https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ITA?dt=20210301&formato=PDF&nreg=201903012109&salvar=false&seq=2023657&tipo=0",
+      "topics": [
+        "oferta",
+        "entrega"
+      ],
+      "format": "pdf",
+      "authority": "STJ",
+      "process": "REsp 1.872.048/RS",
+      "court": "Terceira Turma",
+      "rapporteur": "Nancy Andrighi",
+      "judgedAt": "2021-02-23",
+      "publishedAt": "2021-03-01",
+      "rationale": "Cumprimento de oferta e falta de estoque na entrega de produto comprado pela internet."
+    },
+    {
+      "id": "resp-1540566",
+      "title": "REsp 1.540.566/SC",
+      "type": "jurisprudencia",
+      "url": "https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ITA?dt=20180918&formato=PDF&nreg=201501542092&salvar=false&seq=1750281&tipo=0",
+      "topics": [
+        "oferta"
+      ],
+      "format": "pdf",
+      "authority": "STJ",
+      "process": "REsp 1.540.566/SC",
+      "court": "Terceira Turma",
+      "rapporteur": "Nancy Andrighi",
+      "judgedAt": "2018-09-11",
+      "publishedAt": "2018-09-18",
+      "rationale": "Publicidade por omissão e vinculação da oferta; julgado sobre banda larga, aplicação a compras online exige análise própria."
+    },
+    {
+      "id": "resp-1705278",
+      "title": "REsp 1.705.278/MA",
+      "type": "jurisprudencia",
+      "url": "https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ITA?dt=20191202&formato=PDF&nreg=201101320158&salvar=false&seq=1884125&tipo=0",
+      "topics": [
+        "oferta"
+      ],
+      "format": "pdf",
+      "authority": "STJ",
+      "process": "REsp 1.705.278/MA",
+      "court": "Quarta Turma",
+      "rapporteur": "Antonio Carlos Ferreira",
+      "judgedAt": "2019-11-19",
+      "publishedAt": "2019-12-02",
+      "rationale": "Informação essencial e omissão de preço; julgado sobre loja física e telefonia, sem equiparação automática a comércio eletrônico."
+    },
+    {
+      "id": "resp-1176323",
+      "title": "REsp 1.176.323/SP",
+      "type": "jurisprudencia",
+      "url": "https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ITA?dt=20150316&formato=PDF&nreg=201000081405&salvar=false&seq=1387093&tipo=0",
+      "topics": [
+        "garantia"
+      ],
+      "format": "pdf",
+      "authority": "STJ",
+      "process": "REsp 1.176.323/SP",
+      "court": "Terceira Turma",
+      "rapporteur": "Ricardo Villas Bôas Cueva",
+      "judgedAt": "2015-03-03",
+      "publishedAt": "2015-03-16",
+      "rationale": "Distinção entre vício e fato do produto e prazos; caso de revestimento cerâmico, útil como fundamento geral."
+    },
+    {
+      "id": "resp-1411136",
+      "title": "REsp 1.411.136/RS",
+      "type": "jurisprudencia",
+      "url": "https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ITA?dt=20150310&formato=PDF&nreg=201303476474&salvar=false&seq=1384405&tipo=0",
+      "topics": [
+        "garantia"
+      ],
+      "format": "pdf",
+      "authority": "STJ",
+      "process": "REsp 1.411.136/RS",
+      "court": "Terceira Turma",
+      "rapporteur": "Marco Aurélio Bellizze",
+      "judgedAt": "2015-02-24",
+      "publishedAt": "2015-03-10",
+      "rationale": "Assistência técnica pelo comerciante; consultar evolução posterior no REsp 1.634.851/RJ."
+    },
+    {
+      "id": "resp-1634851",
+      "title": "REsp 1.634.851/RJ",
+      "type": "jurisprudencia",
+      "url": "https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ITA?dt=20180215&formato=PDF&nreg=201502262739&salvar=false&seq=1576048&tipo=0",
+      "topics": [
+        "garantia"
+      ],
+      "format": "pdf",
+      "authority": "STJ",
+      "process": "REsp 1.634.851/RJ",
+      "court": "Terceira Turma",
+      "rapporteur": "Nancy Andrighi",
+      "judgedAt": "2017-09-12",
+      "publishedAt": "2018-02-15",
+      "rationale": "Responsabilidade do comerciante na intermediação de reparo; confrontar entendimento anterior do REsp 1.411.136/RS."
+    },
+    {
+      "id": "resp-2000701",
+      "title": "REsp 2.000.701/PR",
+      "type": "jurisprudencia",
+      "url": "https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ITA?dt=20220901&formato=PDF&nreg=202201306325&salvar=false&seq=2208634&tipo=0",
+      "topics": [
+        "garantia"
+      ],
+      "format": "pdf",
+      "authority": "STJ",
+      "process": "REsp 2.000.701/PR",
+      "court": "Terceira Turma",
+      "rapporteur": "Nancy Andrighi",
+      "judgedAt": "2022-08-30",
+      "publishedAt": "2022-09-01",
+      "rationale": "Restituição do preço de veículo com vício; limites de depreciação, sem pressupor identidade com compra online."
+    },
+    {
+      "id": "earesp-676608",
+      "title": "EAREsp 676.608/RS",
+      "type": "jurisprudencia",
+      "url": "https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ITA?dt=20210330&formato=PDF&nreg=201500497769&salvar=false&seq=1498374&tipo=0",
+      "topics": [
+        "cobranca"
+      ],
+      "format": "pdf",
+      "authority": "STJ",
+      "process": "EAREsp 676.608/RS",
+      "court": "Corte Especial",
+      "rapporteur": "Og Fernandes",
+      "judgedAt": "2020-10-21",
+      "publishedAt": "2021-03-30",
+      "rationale": "Repetição em dobro, boa-fé objetiva e modulação temporal; caso de telefonia, usado como fundamento geral de cobrança."
+    },
+    {
+      "id": "eresp-1413542",
+      "title": "EREsp 1.413.542/RS",
+      "type": "jurisprudencia",
+      "url": "https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ITA?dt=20210330&formato=PDF&nreg=201303558269&salvar=false&seq=1705934&tipo=0",
+      "topics": [
+        "cobranca"
+      ],
+      "format": "pdf",
+      "authority": "STJ",
+      "process": "EREsp 1.413.542/RS",
+      "court": "Corte Especial",
+      "rapporteur": "Maria Thereza de Assis Moura; redator do acórdão: Herman Benjamin",
+      "judgedAt": "2020-10-21",
+      "publishedAt": "2021-03-30",
+      "rationale": "Repetição do indébito e modulação de efeitos; caso de telefonia, distinguir opiniões vencidas e decisão colegiada."
+    },
+    {
+      "id": "resp-1645589",
+      "title": "REsp 1.645.589/MS",
+      "type": "jurisprudencia",
+      "url": "https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ITA?dt=20200206&formato=PDF&nreg=201601865992&salvar=false&seq=1905932&tipo=0",
+      "topics": [
+        "cobranca"
+      ],
+      "format": "pdf",
+      "authority": "STJ",
+      "process": "REsp 1.645.589/MS",
+      "court": "Terceira Turma",
+      "rapporteur": "Ricardo Villas Bôas Cueva",
+      "judgedAt": "2020-02-04",
+      "publishedAt": "2020-02-06",
+      "rationale": "Distingue cobrança judicial pelo art. 940 do Código Civil de cobrança extrajudicial pelo art. 42 do CDC."
+    },
+    {
+      "id": "resp-1828620",
+      "title": "REsp 1.828.620/RO",
+      "type": "jurisprudencia",
+      "url": "https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ITA?dt=20201005&formato=PDF&nreg=201902202437&salvar=false&seq=1861606&tipo=0",
+      "topics": [
+        "oferta"
+      ],
+      "format": "pdf",
+      "authority": "STJ",
+      "process": "REsp 1.828.620/RO",
+      "court": "Segunda Turma",
+      "rapporteur": "Herman Benjamin",
+      "judgedAt": "2019-12-03",
+      "publishedAt": "2020-10-05",
+      "rationale": "Publicidade de juros e dever de informação na venda a crédito; caso de veículos, aplicação digital exige análise específica."
+    },
+    {
+      "id": "resp-1613561",
+      "title": "REsp 1.613.561/SP",
+      "type": "jurisprudencia",
+      "url": "https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ITA?dt=20200901&formato=PDF&nreg=201600171682&salvar=false&seq=1537820&tipo=0",
+      "topics": [
+        "oferta"
+      ],
+      "format": "pdf",
+      "authority": "STJ",
+      "process": "REsp 1.613.561/SP",
+      "court": "Segunda Turma",
+      "rapporteur": "Herman Benjamin",
+      "judgedAt": "2017-04-25",
+      "publishedAt": "2020-09-01",
+      "rationale": "Publicidade abusiva dirigida a crianças; fundamento geral do art. 37, sem afirmar julgamento sobre comércio eletrônico."
+    }
+  ]
+}

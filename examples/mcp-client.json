@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "consumidor": {
+      "command": "docker",
+      "args": ["compose", "-f", "/Users/trabalho/Documents/studies/consumidor-rag-mcp/compose.yaml", "run", "--rm", "--no-deps", "-T", "mcp"]
+    }
+  }
+}

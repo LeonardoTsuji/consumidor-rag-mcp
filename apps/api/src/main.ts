@@ -1,0 +1,11 @@
+import { join } from 'node:path';
+import { config } from './config.js';
+import { Store } from './store.js';
+import { Gemini } from './gemini.js';
+import { Vectors } from './vectors.js';
+import { Research } from './research.js';
+import { createApp } from './app.js';
+const store=new Store(join(config.DATA_DIR,'corpus.sqlite'));
+const app=createApp(new Research(store,new Gemini(),new Vectors()));
+for(const signal of ['SIGINT','SIGTERM'])process.once(signal,()=>{void app.close().then(()=>store.close());});
+await app.listen({host:config.API_HOST,port:config.API_PORT});

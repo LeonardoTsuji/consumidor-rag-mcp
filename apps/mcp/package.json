@@ -1,0 +1,1 @@
+{"name":"@consumidor/mcp","version":"0.1.0","private":true,"type":"module","scripts":{"dev":"tsx watch src/main.ts","start":"tsx src/main.ts","build":"tsc","typecheck":"tsc --noEmit"},"dependencies":{"@consumidor/shared":"workspace:*","@modelcontextprotocol/sdk":"^1.21.1","zod":"^3.25.76"}}

@@ -1,0 +1,2 @@
+import { defineConfig } from '@playwright/test';
+export default defineConfig({testDir:'tests/e2e',fullyParallel:false,use:{baseURL:'http://127.0.0.1:4173',trace:'retain-on-failure'},webServer:[{command:'node --import tsx tests/e2e/server.ts',port:3199,reuseExistingServer:false},{command:'pnpm --filter @consumidor/web exec vite --host 127.0.0.1 --port 4173',port:4173,env:{API_PROXY_URL:'http://127.0.0.1:3199'},reuseExistingServer:false}],projects:[{name:'chromium',use:{browserName:'chromium',viewport:{width:1440,height:1000}}}]});
